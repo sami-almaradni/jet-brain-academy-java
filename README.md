@@ -1,3 +1,3 @@
-# jb-2-4-create-a-menu
+# Java Academy
 
-Ihr werdet hier die Aufgaben der Academy finden (aber nicht alle) und bei jeder Aufgabe ist hoffentlich genauso genannt wie in der Academy steht, außer die letzte Übung, die ist in Package heißt "Contact"
+This was the exercises of Java from JetBrain academy. In "src" you will find bunch of files, the files are named based on the exercise's target.
